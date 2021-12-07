@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ProdutoAlimenticio
+comment1.params=nome\ valor\ detalhes\ dtval
+comment1.target=ProdutoAlimenticio(java.lang.String,\ double,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=double\ mostraValor()
+comment3.params=
+comment3.target=java.lang.String\ mostraDetalhes()
+numComments=4
