@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Produto
-comment1.params=
-comment1.target=double\ mostraValor()
-comment2.params=
-comment2.target=java.lang.String\ mostraDetalhes()
-numComments=3
